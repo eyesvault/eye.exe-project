@@ -1,7 +1,7 @@
 -- New example script written by wally
 -- You can suggest changes with a pull request or something
 
-local repo = 'https://raw.githubusercontent.com/NotChops/eye.vault-ui-lib/refs/heads/main/source.lua'
+local repo = 'https://raw.githubusercontent.com/eyesvault/eye.exe-project/refs/heads/main/Add%20Ons/Library.lua'
 
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
 local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))()
